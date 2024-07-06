@@ -1,0 +1,4 @@
+UI_EN = {
+    UI_SortingInto_Key = "Key",
+    UI_SortingInto_Key_Tooltip = "Select the key for sorting into.",
+}
